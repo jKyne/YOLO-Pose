@@ -3,4 +3,4 @@ A deep learning framework for target detection based on and improved upon YOLOv2
 
 
 The CNN network architecture is as below.
-![image](https://github.com/jKyne/YOLO-Pose/master/network.jpg)
+![image](https://github.com/jKyne/YOLO-Pose/network.png)
