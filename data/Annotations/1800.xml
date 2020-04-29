@@ -1,0 +1,33 @@
+<annotation>
+    <folder>Frame1</folder>
+    <filename>1800.jpeg</filename>
+    <size>
+        <width>768</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ignore</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>690</x1>
+            <y1>135</y1>
+            <x2>704</x2>
+            <y2>272</y2>
+            <x3>765</x3>
+            <y3>268</y3>
+            <x4>766</x4>
+            <y4>121</y4>
+        </polygon>
+        <bndbox>
+            <xmin>690</xmin>
+            <ymin>121</ymin>
+            <xmax>766</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>
+</annotation>

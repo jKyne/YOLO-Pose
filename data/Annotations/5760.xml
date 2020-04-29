@@ -1,0 +1,33 @@
+<annotation>
+    <folder>Frame1</folder>
+    <filename>5760.jpeg</filename>
+    <size>
+        <width>768</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ignore</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>720</x1>
+            <y1>260</y1>
+            <x2>712</x2>
+            <y2>426</y2>
+            <x3>767</x3>
+            <y3>425</y3>
+            <x4>767</x4>
+            <y4>253</y4>
+        </polygon>
+        <bndbox>
+            <xmin>712</xmin>
+            <ymin>253</ymin>
+            <xmax>767</xmax>
+            <ymax>426</ymax>
+        </bndbox>
+    </object>
+</annotation>

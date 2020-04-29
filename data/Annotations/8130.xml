@@ -1,0 +1,33 @@
+<annotation>
+    <folder>Frame1</folder>
+    <filename>8130.jpeg</filename>
+    <size>
+        <width>768</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ignore</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>159</x1>
+            <y1>170</y1>
+            <x2>179</x2>
+            <y2>367</y2>
+            <x3>349</x3>
+            <y3>330</y3>
+            <x4>337</x4>
+            <y4>148</y4>
+        </polygon>
+        <bndbox>
+            <xmin>159</xmin>
+            <ymin>148</ymin>
+            <xmax>349</xmax>
+            <ymax>367</ymax>
+        </bndbox>
+    </object>
+</annotation>
